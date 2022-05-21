@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/leave-app-site/static/css/main.b2a312e6.css",
-    "main.js": "/leave-app-site/static/js/main.ddc20baf.js",
+    "main.js": "/leave-app-site/static/js/main.a20d7e13.js",
     "static/js/787.fdceb4ba.chunk.js": "/leave-app-site/static/js/787.fdceb4ba.chunk.js",
     "static/media/beach.jpeg": "/leave-app-site/static/media/beach.415db456608b1a479d1f.jpeg",
     "index.html": "/leave-app-site/index.html",
     "main.b2a312e6.css.map": "/leave-app-site/static/css/main.b2a312e6.css.map",
-    "main.ddc20baf.js.map": "/leave-app-site/static/js/main.ddc20baf.js.map",
+    "main.a20d7e13.js.map": "/leave-app-site/static/js/main.a20d7e13.js.map",
     "787.fdceb4ba.chunk.js.map": "/leave-app-site/static/js/787.fdceb4ba.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b2a312e6.css",
-    "static/js/main.ddc20baf.js"
+    "static/js/main.a20d7e13.js"
   ]
 }
